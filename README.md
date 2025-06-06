@@ -20,6 +20,10 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
+Name : Arunsamy D
+
+Reg.no : 212224240016
+
 ## C program that receives a message from message queue and display them
 
 ```c
@@ -92,8 +96,7 @@ int main()
 
 ## OUTPUT
 
-
-
+![WhatsApp Image 2025-06-06 at 04 08 47_02df37b5](https://github.com/user-attachments/assets/26060c9d-7b84-4fa6-bda1-c1a3f4733b4d)
 
 # RESULT:
 The programs are executed successfully.
